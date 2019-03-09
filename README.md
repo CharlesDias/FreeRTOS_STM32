@@ -2,9 +2,9 @@
 
 ## Overview
 
-The goal is to reproduce some examples following the PDF **Mastering the FreeRTOS Real Time Kernel**, available in the link https://www.freertos.org/Documentation/RTOS_book.html
+The goal is to reproduce some examples following the **Mastering the FreeRTOS Real Time Kernel**, sometimes tiny adaptations can be made for fit in the version the tools. The PDF is available in the link https://www.freertos.org/Documentation/RTOS_book.html
 
-No one specific project will be found here. 
+Any specific project will be found here, only code to explore the essential features of the FreeRTOS.
 
 Every things project was created by Charles Dias.
 
