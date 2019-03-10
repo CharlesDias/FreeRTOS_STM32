@@ -15,4 +15,3 @@ This example is based on the Hans **Mastering the FreeRTOS Real Time Kernel** Ex
 - STM32CubeMx 5.1.0
 - Atollic Studio 9.3
 - FreeRTOS v10.0.1
-- SEGGER 2.52f
