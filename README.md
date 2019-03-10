@@ -1,5 +1,9 @@
 # FreeRTOS_STM32
 
+## Wiki
+
+https://github.com/CharlesDias/FreeRTOS_STM32/wiki 
+
 ## Overview
 
 The goal is to reproduce some examples following the **Mastering the FreeRTOS Real Time Kernel**, sometimes tiny adaptations can be made for fit in the version the tools. The PDF is available in the link https://www.freertos.org/Documentation/RTOS_book.html
